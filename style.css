@@ -1,0 +1,36 @@
+body{
+       font-family: sans-serif;  
+       background-image:url("images/tree-736885__480.jpg"); 
+       background-repeat: no-repeat;
+       background-position: center;
+       background-size: cover;
+       background-attachment: fixed;
+       
+       
+}
+
+#mango  {
+    border: 2px solid red;
+    margin: 50px;
+}
+
+#graphs  {
+    border: 2px solid red;
+    margin: 50px;
+}
+#banana {
+    border: 2px solid red;
+    margin: 50px;
+}
+.a{
+    display: inline inline-block;
+}
+
+    
+
+
+
+
+ 
+
+
